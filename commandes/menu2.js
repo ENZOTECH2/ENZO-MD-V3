@@ -34,44 +34,44 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-╭────  MSELA-CHUI-V2 ─────✣
+╭────  Mr-anyway-tech ─────✣
 │  ╭─────────────✣
 │  │▸ *my owner* : ${s.OWNER_NAME}
    │▸ *commander* : ${nomAuteurMessage} 
-╰──────────────🐯
+╰──────────────😎
     ▸ *date *: ${date}
     ▸ *prefix* : ${s.PREFIXE}
     ▸ *worktype* : ${mode} mode
     ▸ *plugin* : ${cm.length} 
     ▸ *rom* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
     ▸ *running on* : ${os.platform()}
-    ▸ *theme* : *MSELACHUI*
+    ▸ *theme* : *Mranyway*
 
-> MSELA-CHUI-V2 2024\n${readmore}`;
+> Mr-anyway-tech 2024\n${readmore}`;
     
 let menuMsg = `
 
- * msela-chui-v2 COMMADS *${readmore}
+ * mr-anyway-tech COMMADS *${readmore}
 `;
 
     for (const cat in coms) {
         menuMsg += ` ╭──────✣ *${cat}* ✣─────☹︎`;
         for (const cmd of coms[cat]) {
             menuMsg += `
-│🐆│ ${cmd}`;
+│🕺│ ${cmd}`;
         }
         menuMsg += `
 ╰────────────···▸▸ \n`
     }
 
-    menuMsg += `> powered by mselachui Tech 
+    menuMsg += `> powered by mranyway Tech 
 `;
 
    var lien = mybotpic();
 
    if (lien.match(/\.(mp4|gif)$/i)) {
     try {
-        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *msela-chui-v2*, déveloper mselachui Tech" , gifPlayback : true }, { quoted: ms });
+        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *mr-anyway-tech*, déveloper mranyway Tech" , gifPlayback : true }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
@@ -81,7 +81,7 @@ let menuMsg = `
 // Vérification pour .jpeg ou .png
 else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
     try {
-        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *msela-chui-v2*, déveloper mselachui Tech" }, { quoted: ms });
+        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *mr-anyway-tech*, déveloper mranyway Tech" }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
