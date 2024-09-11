@@ -34,19 +34,19 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-*MSELA-CHUI-V2 AVAILABLE MENUS* 
+*𝕄ℝ 𝔸ℕ𝕐𝕎À𝕐 𝔸𝕍𝔸𝕀𝕃𝔸𝔹𝕃𝔼 ℂ𝕄𝔻* 
 
 
     ▸ *commander* : ${cm.length} 
     ▸ *rom* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
     ▸ *uptime* : ${os.platform()}
-    ▸ *theme* : *MSELACHUI TECH*
+    ▸ *theme* : *𝙼𝚁 𝙰𝙽𝚈𝚆𝙰𝚈*
 
-> MSELA-CHUI-V2🐯 WA BOT
-> POWERED BY MSELACHUI TECH 🐯\n${readmore}`;
+> 𝙼𝚁 𝙰𝙽𝚈𝚆𝙰𝚈 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝙱𝙾𝚃
+> 𝙋𝙍𝙊𝘿𝙐𝘾𝙏 𝙊𝙁 𝙈𝙍 𝘼𝙉𝙔𝙒𝘼𝙔 🕴️\n${readmore}`;
     
 let menuMsg = `
-> Hello ${nomAuteurMessage},,, Type menu2 to access a list of commands. 
+> 𝐻𝑒𝑙𝑙𝑜 ${nomAuteurMessage},,, 𝑡𝑦𝑝𝑒 𝑚𝑒𝑛𝑢2 𝑡𝑜 𝑎𝑐𝑐𝑒𝑠𝑠 𝑡ℎ𝑒 𝑙𝑖𝑠𝑡 𝑚𝑒𝑛𝑢. 
   
 ╰───────────────────⏣`;
 
