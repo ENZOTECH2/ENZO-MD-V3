@@ -66,26 +66,26 @@ const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
 
-┏━━ MSELA-CHUI-V2 ━━┓
+┏━━ mr Anyway  md ━━┓
 ┃   Mode: ${mode}
 ┃   User : ${s.OWNER_NAME}
 ┃
-┣━mselachui md new vision 𒈒━➠
-┗━━━𒈒by mselachui Tech𒈒━━┛\n\n`;
+┣━mr Anyway md new vision 𒈒━➠
+┗━━━𒈒by mr Anyway Tech𒈒━━┛\n\n`;
 
 
     
 
 let menuMsg = `
 ┏━━━━━━━━━━━━━━┓
-┣❏mselachui md  
-┣❏by Mselachui Tech
+┣❏mr Anyway md  
+┣❏by mr Anyway Tech
 ┗━━━━━━━━━━━━━━┛\n
 
 
 
 
-mselachui md cmds𒈒
+mr Anyway md cmds𒈒
 `;
 
 
@@ -112,13 +112,13 @@ mselachui md cmds𒈒
 
 
 ︎┏━━━━━━━━━━━━━━┓
-️┣❏mselachui md bot 
-┣❏by mselachui Tech 
+️┣❏mr Anyway md bot 
+┣❏by mr Anyway Tech 
 ┗━━━━━━━━━━━━━━┛\n
 
 
 ┏━━━━━━━━━━━━━━┓
-┃powered by mselachui Tech 
+┃powered by mr Anyway Tech 
 ┗━━━━━━━━━━━━━━┛\n
 
 
