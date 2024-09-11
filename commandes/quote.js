@@ -13,14 +13,14 @@ zokou({ nomCom: 'quote', categorie: 'Fun' }, async (dest, zk, commandeOptions) =
         .then((response) => response.json())
         .then(async (quote) => {
           repondre(`╔══════════════════════════╗
-║   MSELA-CHUI-V2               ║
+║   Mr-anyway-tech               ║
 ╚══════════════════════════╝
 
 🎬 Anime: ${quote.anime}
 👤 Character: ${quote.character}
 💬 Quote: ${quote.quote}
 
-Powered by MSELA-CHUI-V2`);
+Powered by Mr-anyway-tech`);
         });
     } catch (e) {
       repondre('Erreur lors de la génération de la citation : ' + e.message);
@@ -33,14 +33,14 @@ Powered by MSELA-CHUI-V2`);
         .then((response) => response.json())
         .then(async (quote) => {
           repondre(`╔══════════════════════════╗
-║   MSELA-CHUI-V2               ║
+║   Mr-anyway-tech               ║
 ╚══════════════════════════╝
 
 🎬 Anime: ${quote.anime}
 👤 Character: ${quote.character}
 💬 Quote: ${quote.quote}
 
-Powered by MSELA-CHUI-V2`);
+Powered by Mr-anyway-tech`);
         });
     } catch (e) {
       repondre('Erreur lors de la génération de la citation : ' + e.message);
