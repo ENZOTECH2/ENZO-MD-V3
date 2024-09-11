@@ -2,7 +2,7 @@ const { zokou } = require("../framework/zokou");
 const {getAllSudoNumbers,isSudoTableNotEmpty} = require("../bdd/sudo")
 const conf = require("../set");
 
-zokou({ nomCom: "owner", categorie: "General", reaction: "🐯" }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "owner", categorie: "General", reaction: "😎" }, async (dest, zk, commandeOptions) => {
     const { ms , mybotpic } = commandeOptions;
     
   const thsudo = await isSudoTableNotEmpty()
@@ -55,12 +55,12 @@ zokou({ nomCom: "dev", categorie: "General", reaction: "🪄" }, async (dest, zk
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "Mselachui 🍃tech", numero: "260774358600" },
-      { nom: "MSELA-CHUI-V2", numero: ""260774358600 },
+      { nom: "Mr Anyway 🍃tech", numero: "255678892560" },
+      { nom: "mr Anyway-tech", numero: ""255678892560 },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = "😎 welcome to MSELA-CHUI-V2! here is the developer :\n\n";
+    let message = "😎 welcome to Mr Anyway-tech! here is the developer :\n\n";
     for (const dev of devs) {
       message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
     }
@@ -99,16 +99,16 @@ zokou({ nomCom: "support", categorie: "General" }, async (dest, zk, commandeOpti
 
 })
 
-zokou({ nomCom: "developer", categorie: "General", reaction: "🐯" }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "developer", categorie: "General", reaction: "😎" }, async (dest, zk, commandeOptions) => {
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "Mselachui 🍃tech", numero: "260774358600" },
-      { nom: "MSELA-CHUI-V2", numero: "260774358600" },
+      { nom: "Mr Anyway 🍃tech", numero: "255678892560" },
+      { nom: "Mr-anyway-tech", numero: "255678892560" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = "😎 *Welcome to MSELA-CHUI-V2* here is the developer numbers:\n\n";
+    let message = "😎 *Welcome to Mr -anyway-tech* here is the developer numbers:\n\n";
     for (const dev of devs) {
       message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
     }
