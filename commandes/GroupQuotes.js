@@ -19,7 +19,7 @@ zokou({ nomCom: 'quote', categorie: 'Group' }, async (dest, zk, commandeOptions)
 👤 Character: ${quote.character}
 💬 Quote: ${quote.quote}
 
-Powered by *`MSELA-CHUI-V2*`);
+Powered by *`Mr-anyway-tech*`);
         });
     } catch (e) {
       repondre('Erreur lors de la génération de la citation : ' + e.message);
@@ -31,13 +31,13 @@ Powered by *`MSELA-CHUI-V2*`);
       fetch('https://animechan.xyz/api/random/character?name=' + query)
         .then((response) => response.json())
         .then(async (quote) => {
-          repondre(`MSELA-CHUI-V2 
+          repondre(`Mr-anyway-tech 
 
 🎬 Anime: ${quote.anime}
 👤 Character: ${quote.character}
 💬 Quote: ${quote.quote}
 
-Powered by *`MSELA-CHUI-V2`*`);
+Powered by *`Mr-anyway-tech`*`);
         });
     } catch (e) {
       repondre('Erreur lors de la génération de la citation : ' + e.message);
