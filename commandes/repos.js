@@ -2,8 +2,8 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 const { zokou } = require("../framework/zokou");
 
-zokou({ nomCom: "repo", catégorie:"Général", reaction: "🐯", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
-  const githubRepo = 'https://api.github.com/repos/Mselachui03/MSELA-CHUI-V2';
+zokou({ nomCom: "repo", catégorie:"Général", reaction: "😎", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
+  const githubRepo = 'https://api.github.com/repos/Mranywaymd/Mr-anyway-md';
   const img = 'https://telegra.ph/file/001964ff948602d0c868f.jpg';
 
   try {
@@ -22,18 +22,18 @@ zokou({ nomCom: "repo", catégorie:"Général", reaction: "🐯", nomFichier: __
       const lastUpdateDate = new Date(data.updated_at).toLocaleDateString('en-GB');
 
       const gitdata = `*hellow whatsaap user
-this is* *MSELA-CHUI-V2.*\n get session id *by*, *pairing code*  https://chui-md.onrender.com/pair
+this is* *Mr-anyway-md.*\n get session id *by*, *pairing code*  https://mr Anyway-md.onrender.com/pair
 
 🗼 *REPOSITORY:* ${data.html_url}
 🌟 *STARS:* ${repoInfo.stars}
 🧧 *FORKS:* ${repoInfo.forks}
 📅 *RELEASE DATE:* ${releaseDate}
 🕐 *UPDATE ON:* ${repoInfo.lastUpdate}
-👨‍💻 *OWNER:* *Mselachui  tech*
-💞 *THEME:* *MSELA-CHUI-V2*
+👨‍💻 *OWNER:* *Mranyway  tech*
+💞 *THEME:* *Mr-anywa-tech*
 🥰*GLORY TO GOD ⛪*
 __________________________________
-            *Made With Mselachui Tech*`;
+            *Made With Mranyway Tech*`;
 
       await zk.sendMessage(dest, { image: { url: img }, caption: gitdata });
     } else {
