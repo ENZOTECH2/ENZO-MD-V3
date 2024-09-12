@@ -1,9 +1,9 @@
 {
-  "name":"MSELA-CHUI-V2 UPDATE BY ME",
-  "description":"Best WhatsApp Bot Developed By Mselachui Tech Contact me 260774358600, Thank you for choose MSELA-CHUI-V2",
+  "name":"Lazack",
+  "description":"bot whatsapp developed by Lazack",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/b5e8a490b30177df71db0.jpg",
-  "repository":"https://github.com/Mselachui03/MSELA-CHUI-V2",
+  "logo":"https://telegra.ph/file/1dc10a39146c80069a439.jpg",
+  "repository":"https://github.com/Lazack28/Lazack-md",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -29,42 +29,42 @@
      {
       "description":"Other user can't use your bot in pm (type yes to active or no to deactive ; don't write in capital letter)",
       "value":"no",
-      "required":true
+      "required":false
     }
     ,
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"MSELA-CHUI-V2",
+      "value":"𝙇𝘼𝙕𝘼𝘾𝙆-𝙈𝘿",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/b5e8a490b30177df71db0.jpg",
+      "value":"https://telegra.ph/file/1dc10a39146c80069a439.jpg",
       "required":false
        
      },
     "PUBLIC_MODE":
     {
       "description":"type yes to put your bot on public mode or no to put it on private mod",
-      "value":"no",
-      "required": true 
+      "value":"yes",
+      "required":false
     }
 	,
     "HEROKU_APY_KEY": {
     "description": "insert your heroku api-key (this is optionnal)",
-     "required" :true
+     "required" :false
     },
   "HEROKU_APP_NAME": {
     "description": "insert your heroku APP NAME (this is optionnal)",
-     "required" :true
+     "required" :false
     }  
 	  ,
     "SESSION_ID":
     {
-      "description":"put your session ID , the code you receive after scanning Qr code",   
+      "description":"put your session ID , the code you receive after scanning Qr code from the original repo. if not please visit github.com/Lazack28/Lazack-md to get the original session id",   
       "value":"",
       "required":true
       
@@ -72,17 +72,16 @@
     "OWNER_NAME":
     {
     
-    "desc": "Your Name",
+    "desc": "just put youre name",
     "required": false,
-    "value": "MSELACHUI TECH🐯"
+    "value": "lazack"
   },
     "NUMERO_OWNER":
   {
     
-    "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
+    "desc": "Your number , dont put '+' and put you area code(exemple of tanzania '255')",
     "required":false,
-    "value": "260774358600"
-	  
+    "value": "255734980103"
   },
     "WARN_COUNT":
   {
@@ -98,13 +97,13 @@
   },
   "PRESENCE":{
     "description":"Mark your presence: 1 to indicate that you are online even if you are not. 2 to indicate that you are currently typing a message. 3 to indicate that you are currently recording an audio. Or leave the field blank to indicate your real state.",
-    "value":"1",
-    "required": true 
+    "value":"",
+    "required": false
   },
   "ANTI_DELETE_MESSAGE" : {
     "description": "if you want to enable anti delete message put yes else put no",
-    "value": "yes",
-    "required": true 
+    "value": "no",
+    "required": false
   }
   },
 
@@ -120,4 +119,4 @@
       "plan":"heroku-postgresql"
     }
   ]
-  }
+}
