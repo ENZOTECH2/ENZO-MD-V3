@@ -56,3 +56,9 @@
     <br>
     <a href='https://dashboard.heroku.com/new?template=https://github.com/SIMON32883/MR-ANYWAY-' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 -----------------------
+
+****MAIN DEV EDITOR****
+
+ [![MR ANYWAY](https://github.com/SIMON32883.png?size=100)](https://github.com/SIMON32883)
+
+
