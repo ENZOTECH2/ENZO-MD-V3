@@ -47,7 +47,7 @@ const  {addGroupToBanList,isGroupBanned,removeGroupFromBanList} = require("./bdd
 const {isGroupOnlyAdmin,addGroupToOnlyAdminList,removeGroupFromOnlyAdminList} = require("./bdd/onlyAdmin");
 //const //{loadCmd}=require("/framework/mesfonctions")
 let { reagir } = require(__dirname + "/framework/app");
-var session = conf.session.replace(/ANYWAY-MD;;;/g,"");
+var session = conf.session.replace(/LAZACK-BOT;;;/g,"");
 const prefixe = conf.PREFIXE;
 
 
@@ -824,15 +824,15 @@ ${metadata.desc}`;
                 console.log("Lazack is Online 🕸\n\n");
                 //chargement des commandes 
                 console.log("Loading Commands ...\n");
-                fs.readdirSync(__dirname + "/lazack").forEach((fichier) => {
+                fs.readdirSync(__dirname + "/commandes").forEach((fichier) => {
                     if (path.extname(fichier).toLowerCase() == (".js")) {
                         try {
-                            require(__dirname + "/lazack/" + fichier);
+                            require(__dirname + "/commandes/" + fichier);
                             console.log(fichier + " installed ✔️");
                         }
                         catch (e) {
                             console.log(`${fichier} n'a pas pu être chargé pour les raisons suivantes : ${e}`);
-                        } /* require(__dirname + "/lazack/" + fichier);
+                        } /* require(__dirname + "/commandes/" + fichier);
                          console.log(fichier + " installed ✔️")*/
                         (0, baileys_1.delay)(300);
                     }
