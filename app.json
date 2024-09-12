@@ -1,9 +1,9 @@
 {
-  "name":"Lazack",
+  "name":"Anyway",
   "description":"bot whatsapp developed by Lazack",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/1dc10a39146c80069a439.jpg",
-  "repository":"https://github.com/Lazack28/Lazack-md",
+  "repository":"https://github.com/SIMON32882/MR-ANYWAY-",
   "succes_url":"/",
   "stack":"container",
   "env":{
