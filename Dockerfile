@@ -9,7 +9,7 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN git clone https://github.com/Mranyway/MR-ANYWAY-TECH.git /root/zokou_BOt
+RUN git clone https://github.com/SIMON32883/MR-ANYWAY-.git /root/zokou_BOt
 WORKDIR /root/zokou_Bot/
 
 
