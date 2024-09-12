@@ -21,6 +21,10 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 
+
+----------------------------
+
+
 ### MR_ANYWAY 😎
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -28,71 +32,27 @@
   </a>
 </p>
 
- ## Mr-anyway-md Deployment Methods
+--------------------------------
 
-### 1. FORK THIS REPO
+**1. FORK THIS REPO**
 
 <a href='https://github.com/SIMON32883/MR-ANYWAY-/MR-ANYWAY-/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
-### 2. GET SESSION ID HERE
+**2. GET SESSION ID HERE**
 
-### SERVER 1
+***SERVER 1***
  
 <a href="https://chui-md.onrender.com/pair"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a>   
 
+***SERVER 2***
+
 <a href="https://chui-md.onrender.com/qr"><img src="https://img.shields.io/badge/QR CODE-green" alt="Click Here to Get QR-Code" width="90"></a>
 
+----------------------------
 
-
-### DEPLOY ON HEROKU
+***DEPLOY ON HEROKU***
 
 1. Now deploy.
     <br>
-    <a href='https://dashboard.heroku.com/new?template=https://github.com/SIMON32883/MR-ANYWAY-/MR-ANYWAY-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
-
-
-
-    <h2 align="center"> ⚠️ NOTE  </h2>
-## MR-ANYWAY-TECH SCRIPT IS NOT OPENLY ALLOWED TO USED IN ANY OF YOUR PROJECTS BE WARNED!!! 
-
-## ```Connect With Me```<img src="http://4.bp.blogspot.com/-XFYyg7bmXe0/UIU9Lt2jaNI/AAAAAAAABw8/UgxWDUoBkaw/s1600/tumblr_mbi70xxizM1r922azo1_500_large.gif">
- <br> 
-<p align="center">
-<a href="https://wa.me/255678892560"><img src="https://img.shields.io/badge/Contact mr-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://whatsapp.com/channel/0029VakhqAaLtOjBJOL9Wn1q"><img src="https://img.shields.io/badge/Join Official channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-
-
-
-<br>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-* [🧑‍💻 Follow MR-ANYWAY-TECH Whatsapp Channel🧑‍💻] (https://whatsapp.com/channel/0029VagWQ255q08VTCRQKP09)
-
-
-* [✅ Join Public Group ⚡] (https://chat.whatsapp.com/Gh1dJ4nMh3136H4DFCnte2)
-
-  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-  
-
-- *MR-anyway-tech is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
-- *In that case, I'm not responsible for banning your account.*
-- *Use Mr-anyway-tech at your own risk by keeping this warning in mind.*
-  
-  #### ```MR ANYWAY PROFILE VIEWS 😎```
-![Visitor Count](https://profile-counter.glitch.me/SIMON32883/count.svg)
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></
-## THANKS = MY SELF 
-
-
-## (GLORY TO GOD)
-
-## Support
-
-SUPPORT CHANNEL: <a href="https://whatsapp.com/channel/0029VakhqAaLtOjBJOL9Wn1q"><img src="https://img.shields.io/badge/Join Official channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-
-
-### Please Give One Star ✨ & [follow me notify my updates 💗](https://github.com/SIMON32883)
-<b>Version -> 2.0.0</b>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+    <a href='https://dashboard.heroku.com/new?template=https://github.com/SIMON32883/MR-ANYWAY-' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+-----------------------
