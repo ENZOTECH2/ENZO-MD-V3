@@ -3,10 +3,10 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const { zokou } = require("../framework/zokou");
 zokou({ nomCom: "test", reaction: "📎", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
     console.log("Commande saisie !!!s");
-    let z = 'Hello my name is  *Mr-anyway-tech* \n\n ' + "i'm a whatsapp bot multi-device created ";
-    let d = ' by *Mranyway Tech*';
+    let z = '> 𝙼𝚁 𝙰𝙽𝚈𝚆𝙰𝚈 𝙼𝙳 𝚃𝙴𝚂𝚃𝙸𝙽𝙶* \n\n\n ' + "𝔻𝕆ℕ𝕋 𝔼𝕍𝔼ℝ 𝕋ℝ𝕐 𝕋ℍ𝕀𝕊, 𝔸𝕄 𝕋ℍ𝔼 𝔹𝔼𝕊𝕋 𝕌𝕊𝔼ℝ 𝔹𝕆𝕋 \n\n";
+    let d = '> 𝚌𝚛𝚎𝚊𝚝𝚎𝚍 𝚋𝚢 𝚖𝚛 𝚜𝚒𝚖𝚘𝚗 𝚊𝚗𝚍 𝚑𝚒𝚜 𝚝𝚎𝚊𝚖';
     let varmess = z + d;
-    var img = 'https://telegra.ph/file/001964ff948602d0c868f.jpg';
+    var img = 'https://i.imgur.com/6nbqZRT.jpeg';
     await zk.sendMessage(dest, { image: { url: img }, caption: varmess });
     //console.log("montest")
 });
