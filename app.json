@@ -1,6 +1,6 @@
 {
   "name":"Anyway",
-  "description":"bot whatsapp developed by Lazack",
+  "description":"bot whatsapp developed by MR-ANYWAY-TECH",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/1dc10a39146c80069a439.jpg",
   "repository":"https://github.com/SIMON32882/MR-ANYWAY-",
@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"ME-ANYWAY-MD",
+      "value":"MR-ANYWAY-MD",
       "required":false
 
     } ,
