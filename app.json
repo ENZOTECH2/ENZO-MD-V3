@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"𝙇𝘼𝙕𝘼𝘾𝙆-𝙈𝘿",
+      "value":"ME-ANYWAY-MD",
       "required":false
 
     } ,
@@ -74,14 +74,14 @@
     
     "desc": "just put youre name",
     "required": false,
-    "value": "lazack"
+    "value": "mr-anyway-tech"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of tanzania '255')",
     "required":false,
-    "value": "255734980103"
+    "value": "255678892560"
   },
     "WARN_COUNT":
   {
