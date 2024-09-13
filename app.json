@@ -64,7 +64,7 @@
 	  ,
     "SESSION_ID":
     {
-      "description":"put your session ID , the code you receive after scanning Qr code from the original repo. if not please visit github.com/Lazack28/Lazack-md to get the original session id",   
+      "description":"put your session ID , the code you receive after scanning Qr code from the original repo. if not pleaase visti MR ANYWAY to get the original session id",   
       "value":"",
       "required":true
       
