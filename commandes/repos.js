@@ -3,8 +3,8 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const { zokou } = require("../framework/zokou");
 
 zokou({ nomCom: "repo", catégorie:"Général", reaction: "😎", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
-  const githubRepo = 'https://api.github.com/repos/Mranywaymd/Mr-anyway-md';
-  const img = 'https://telegra.ph/file/001964ff948602d0c868f.jpg';
+  const githubRepo = 'https://api.github.com/repos/SIMON32883/MR-ANYWAY-';
+  const img = 'https://i.imgur.com/6nbqZRT.jpeg';
 
   try {
     const response = await fetch(githubRepo);
@@ -22,7 +22,7 @@ zokou({ nomCom: "repo", catégorie:"Général", reaction: "😎", nomFichier: __
       const lastUpdateDate = new Date(data.updated_at).toLocaleDateString('en-GB');
 
       const gitdata = `*hellow whatsaap user
-this is* *Mr-anyway-md.*\n get session id *by*, *pairing code*  https://mr Anyway-md.onrender.com/pair
+this is* *Mr-anyway-md.*\n get session id *by*, *pairing code*  https://ANYWAY-MD-PARING
 
 🗼 *REPOSITORY:* ${data.html_url}
 🌟 *STARS:* ${repoInfo.stars}
