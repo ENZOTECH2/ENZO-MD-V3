@@ -71,7 +71,7 @@ const date = moment().format('DD/MM/YYYY');
 ║   User : ${s.OWNER_NAME}
 ║   *This is Anyway Md*
 ║   *_we do everything possible_*
-┗╾╼╾╼╾╼╾╼╾╼╾╼╾╼╾╼╾╼╾╯\n${readmore}`;
+┗╾╼╾╼╾╼╾╼╾╼╾╼╾╼╾╼╾╼╾╯\n`;
 
 
     
