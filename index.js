@@ -855,15 +855,15 @@ ${metadata.desc}`;
                 if((conf.DP).toLowerCase() === 'yes') {     
                 let cmsg = `
 ╔════◇
-║ 『𝙇𝘼𝙕𝘼𝘾𝙆-𝙈𝘿』
+║ 『ANYWAY-MD』
 ║    Prefix : [ ${prefixe} ]
 ║    Mode :${md}
 ║    Total Commands : ${evt.cm.length}︎
-║    whatsapp group : https://chat.whatsapp.com/ICNOZzsDH9E81j3RlqLx4w
+║    whatsapp group : https://chat.whatsapp.com/Gh1dJ4nMh3136H4DFCnte2
 ║
 ║    JOIN THE FOLLOWING CHANNEL FOR DAILY UPDATED
-║       https://whatsapp.com/channel/0029VaFytPbAojYm7RIs6l1x
-║ ©𝐋𝐀𝐙𝐀𝐂𝐊-𝐌𝐃 𝐆𝐑𝐎𝐔𝐏
+║       https://whatsapp.com/channel/0029VagWQ255q08VTCRQKP09
+║ ©MR ANYWAY TEAM
 ╚══════════════════╝`;
                 await zk.sendMessage(zk.user.id, { text: cmsg });
                 }
