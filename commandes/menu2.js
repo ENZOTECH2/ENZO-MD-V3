@@ -34,7 +34,7 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-╭────🅜🅡 🅐🅝🅨🅦🅐🅨 🅜🅓─────✣
+╭────🅜🅡 🅐🅝🅨🅦🅐🅨─────✣
 │  ╭─────────────✣
 │  │▸ *my owner* : ${s.OWNER_NAME}
 │  │▸ *commander* : ${nomAuteurMessage} 
