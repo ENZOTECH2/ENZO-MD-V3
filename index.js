@@ -47,7 +47,7 @@ const  {addGroupToBanList,isGroupBanned,removeGroupFromBanList} = require("./bdd
 const {isGroupOnlyAdmin,addGroupToOnlyAdminList,removeGroupFromOnlyAdminList} = require("./bdd/onlyAdmin");
 //const //{loadCmd}=require("/framework/mesfonctions")
 let { reagir } = require(__dirname + "/framework/app");
-var session = conf.session.replace(/LAZACK-BOT;;;/g,"");
+var session = conf.session.replace(/ANYWAYhttps://i.imgur.com/6nbqZRT.jpeg-BOT;;;/g,"");
 const prefixe = conf.PREFIXE;
 
 
@@ -165,7 +165,7 @@ setTimeout(() => {
             
             var dev = [dj, dj2,dj3,luffy].map((t) => t.replace(/[^0-9]/g) + "@s.whatsapp.net").includes(auteurMessage);
             function repondre(mes) { zk.sendMessage(origineMessage, { text: mes }, { quoted: ms }); }
-            console.log("\t [][]...{Lazack-md}...[][]");
+            console.log("\t [][]...{ANYWAY-md}...[][]");
             console.log("=========== Nouveau message ===========");
             if (verifGroupe) {
                 console.log("message provenant du groupe : " + nomGroupe);
@@ -812,16 +812,16 @@ ${metadata.desc}`;
         zk.ev.on("connection.update", async (con) => {
             const { lastDisconnect, connection } = con;
             if (connection === "connecting") {
-                console.log("ℹ️ Lazack Connecting...");
+                console.log("ℹ️ ANYWAY Connecting...");
             }
             else if (connection === 'open') {
-                console.log("✅ Lazack Connection Established! ☺️");
+                console.log("✅ ANYWAY Connection Established! ☺️");
                 console.log("--");
                 await (0, baileys_1.delay)(200);
                 console.log("------");
                 await (0, baileys_1.delay)(300);
                 console.log("------------------/-----");
-                console.log("Lazack is Online 🕸\n\n");
+                console.log("ANYWAY is Online 🕸\n\n");
                 //chargement des commandes 
                 console.log("Loading Commands ...\n");
                 fs.readdirSync(__dirname + "/commandes").forEach((fichier) => {
