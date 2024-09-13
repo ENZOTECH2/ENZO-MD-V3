@@ -42,11 +42,11 @@
 
 ***SERVER 1***
  
-<a href="https://chui-md.onrender.com/pair"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a>   
+<a href="[[https://chui-md.onrender.com/pair](https://anyway-md-pairing.onrender.com/pair)](https://anyway-md-pairing.onrender.com/pair)"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a>   
 
 ***SERVER 2***
 
-<a href="https://chui-md.onrender.com/qr"><img src="https://img.shields.io/badge/QR CODE-green" alt="Click Here to Get QR-Code" width="90"></a>
+<a href="[[https://chui-md.onrender.com/qr](https://anyway-md-pairing.onrender.com/pair)](https://anyway-md-pairing.onrender.com/pair)"><img src="https://img.shields.io/badge/QR CODE-green" alt="Click Here to Get QR-Code" width="90"></a>
 
 ----------------------------
 
