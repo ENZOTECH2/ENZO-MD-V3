@@ -34,10 +34,10 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-╭────  Mr-anyway-tech ─────✣
+╭────🅜🅡 🅐🅝🅨🅦🅐🅨 🅜🅓─────✣
 │  ╭─────────────✣
 │  │▸ *my owner* : ${s.OWNER_NAME}
-   │▸ *commander* : ${nomAuteurMessage} 
+│  │▸ *commander* : ${nomAuteurMessage} 
 ╰──────────────😎
     ▸ *date *: ${date}
     ▸ *prefix* : ${s.PREFIXE}
@@ -45,23 +45,23 @@ const date = moment().format('DD/MM/YYYY');
     ▸ *plugin* : ${cm.length} 
     ▸ *rom* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
     ▸ *running on* : ${os.platform()}
-    ▸ *theme* : *Mranyway*
+    ▸ *theme* : M̠R̠ A̠N̠Y̠W̠A̠Y̠
 
-> Mr-anyway-tech 2024\n${readmore}`;
+> 🄼🅁 🄰🄽🅈🅆🄰🅈 🅃🄴🄲🄷 2024\n${readmore}`;
     
 let menuMsg = `
 
- * mr-anyway-tech COMMADS *${readmore}
+ * 𝘈𝘕𝘠𝘞𝘈𝘠 𝘊𝘖𝘔𝘔𝘈𝘕𝘋𝘚 *${readmore}
 `;
 
     for (const cat in coms) {
         menuMsg += ` ╭──────✣ *${cat}* ✣─────☹︎`;
         for (const cmd of coms[cat]) {
             menuMsg += `
-│🕺│ ${cmd}`;
+│▊│ ${cmd}`;
         }
         menuMsg += `
-╰────────────···▸▸ \n`
+╰────────────···▸▸ \n${readmore}`
     }
 
     menuMsg += `> powered by mranyway Tech 
