@@ -11,7 +11,7 @@
 <a href="https://github.com/SIMON32883/MR-ANYWAY-/followers"><img title="Followers" src="https://img.shields.io/github/followers/Mranyway?color=red&style=flat-square"></a>
 <a href="https://github.com/SIMON32883/MR-ANYWAY-/MR-ANYWAY-/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Mranyway/MR-ANYWAY-?color=blue&style=flat-square"></a>
 <a href="https://github.com/SIMON32883/MR-ANYWAY-/MR-ANYWAY-tech/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Mranyway/MR-ANYWAY-?color=red&style=flat-square"></a>
-<a href="https://github.com/SIMON32883/MR-ANYWAY-/MR_ANYWAY-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Mranyway/MR-ANYWAY-TECH?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/SIMON32883/MR-ANYWAY-/MR_ANYWAY-tech/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Mranyway/MR-ANYWAY-TECH?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/SIMON32883/MR-ANYWAY-/Mr-anyway-/"><img title="Size" src="https://img.shields.io/github/repo-size/Mranyway/MR-ANYWAY-?style=flat-square&color=green"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMranyway%2Mr_anyway-Md&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 <a href="https://github.com/SIMON32883/MR-ANYWAY-/MR-ANYWAY-TECH/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
