@@ -13,13 +13,13 @@ zokou({ nomCom: 'quote', categorie: 'Group' }, async (dest, zk, commandeOptions)
       fetch('https://animechan.xyz/api/random')
         .then((response) => response.json())
         .then(async (quote) => {
-          repondre(`*LUCKY_MD V5 Quotes*
+          repondre(`*ANYWAY_MD  Quotes*
 
 🎬 Anime: ${quote.anime}
 👤 Character: ${quote.character}
 💬 Quote: ${quote.quote}
 
-Powered by *Lucky Md V5*`);
+Powered by *Mr Anyway md*`);
         });
     } catch (e) {
       repondre('Erreur lors de la génération de la citation : ' + e.message);
@@ -37,7 +37,7 @@ Powered by *Lucky Md V5*`);
 👤 Character: ${quote.character}
 💬 Quote: ${quote.quote}
 
-Powered by *Fredie Tech*`);
+Powered by *mr Anyway Tech*`);
         });
     } catch (e) {
       repondre('Erreur lors de la génération de la citation : ' + e.message);
