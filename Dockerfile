@@ -9,7 +9,7 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN git clone https://github.com/SIMON32883/MR-ANYWAY-.git /root/zokou_BOt
+RUN git clone https://github.com/SIMON32883/MR-ANYWAY-.git /root/zokou_Bot
 WORKDIR /root/zokou_Bot/
 
 
@@ -21,4 +21,4 @@ COPY . .
 
 EXPOSE 5000
 
-CMD ["node", "index.js"]
+CMD ["npm", "run" , "index.js"]
