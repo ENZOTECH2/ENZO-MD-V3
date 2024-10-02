@@ -95,11 +95,11 @@ zokou({ nomCom: "support", categorie: "General" }, async (dest, zk, commandeOpti
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
   repondre("look on pm sir ")
-  await zk.sendMessage(auteurMessage,{text :`https://whatsapp.com/channel/0029VaiMm7d4yltT51HS1T1G`},{quoted :ms})
+  await zk.sendMessage(auteurMessage,{text :`https://whatsapp.com/channel/0029VagWQ255q08VTCRQKP09`},{quoted :ms})
 
 })
 
-zokou({ nomCom: "developer", categorie: "General", reaction: "🦁" }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "developer", categorie: "General", reaction: "😎" }, async (dest, zk, commandeOptions) => {
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
