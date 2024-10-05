@@ -27,9 +27,9 @@
 
 
  
-[`QR SCANNER`]([(https://andbad-qr.onrender.com/qr)]) 
+[`QR SCANNER`]((https://bega-normal-scanner.onrender.com)) 
 
-[`PAIRING CODE`](https://andbad-qr.onrender.com)
+[`PAIRING CODE`](https://bega-normal-scanner.onrender.com)
  
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
