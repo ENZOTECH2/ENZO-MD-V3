@@ -6,7 +6,7 @@
 
 </p>
 <p align="center"> 
-  <a href="https://whatsapp.com/channel/0029VajQn6YF1YlPE0XgBC2m">
+  <a href="https://whatsapp.com/channel/0029Vail87sIyPtQoZ2egl1h">
     <img alt=Support height="390" src="https://i.imgur.com/TVHDPwX.jpeg"> 
     </p>
  
@@ -27,9 +27,9 @@
 
 
  
-[`QR SCANNER`]([(https://andbad-qr.onrender.com/qr)]) 
+[`QR SCANNER`](https://bega-normal-scanner.onrender.com) 
 
-[`PAIRING CODE`](https://andbad-qr.onrender.com)
+[`PAIRING CODE`](https://bega-normal-scanner.onrender.com)
  
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
