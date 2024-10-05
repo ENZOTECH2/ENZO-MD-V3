@@ -1,9 +1,9 @@
 {
-  "name":"TOSH-MD",
-  "description":"Best whatsapp bot developed by Tosh+Ibrahim adams",
+  "name":"MR-ANYWAY-MD",
+  "description":"Best whatsapp bot developed by Mr anyway & Baraka Bega",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/e03206989102cb861200e.jpg",
-  "repository":"https://github.com/Tosh205/SUPER-MD",
+  "logo":"https://i.imgur.com/TVHDPwX.jpeg",
+  "repository":"https://github.com/SIMON32883/MR-ANYWAY-MD",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -42,7 +42,7 @@
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/e03206989102cb861200e.jpg",
+      "value":"https://i.imgur.com/TVHDPwX.jpeg",
       "required":false
        
      },
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "Mr Tosh"
+    "value": "Mr Anyway"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254111523038"
+    "value": "255678892560,255762190568"
   },
     "WARN_COUNT":
   {
