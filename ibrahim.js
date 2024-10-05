@@ -818,10 +818,10 @@ zk.ev.on('group-participants.update', async (group) => {
                 console.log("Supa Md is Online 🕸\n\n");
                 //chargement des commandes 
                 console.log("Loading Supa Commands ...\n");
-                fs.readdirSync(__dirname + "/bmw").forEach((fichier) => {
+                fs.readdirSync(__dirname + "/commandes").forEach((fichier) => {
                     if (path.extname(fichier).toLowerCase() == (".js")) {
                         try {
-                            require(__dirname + "/bmw/" + fichier);
+                            require(__dirname + "/commandes/" + fichier);
                             console.log(fichier + " Installed Successfully✔️");
                         }
                         catch (e) {
@@ -850,8 +850,8 @@ zk.ev.on('group-participants.update', async (group) => {
 
                 let cmsg =`      ❒─❒⁠⁠⁠⁠ *BOT-IS-RUNNING* ❒⁠⁠⁠⁠─⁠⁠⁠⁠❒⁠⁠⁠⁠
 ╭❒⁠⁠⁠⁠─❒⁠⁠⁠⁠─❒⁠⁠⁠⁠─❒⁠⁠⁠⁠─❒⁠⁠⁠⁠              
-❒⁠⁠⁠⁠ 𝑫𝑬𝑽   : *Tosh Tech*   
-❒⁠⁠⁠⁠ 𝑩𝑶𝑻   : *SUPER-MD*
+❒⁠⁠⁠⁠ 𝑫𝑬𝑽   : *Simon Tech*   
+❒⁠⁠⁠⁠ 𝑩𝑶𝑻   : *MR-ANYWAY-MD*
 ╰❒⁠⁠⁠⁠─❒⁠⁠⁠⁠─❒⁠⁠⁠⁠─❒⁠⁠⁠⁠─❒⁠⁠⁠⁠`;
                 await zk.sendMessage(zk.user.id, { text: cmsg });
                 }
