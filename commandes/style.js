@@ -10,7 +10,7 @@ function apply(map, text) {
 
 function list(text, fancy) {
     let styles = Object.keys(fancy).filter(e => e.length < 3);
-    let msg = '\n*Availabe Fancy styles for BMW-MD:*\n\n';
+    let msg = '\n*Availabe Fancy styles for ANYWAY-MD-V1:*\n\n';
     for (let style in styles) {
         if (style == 33) {
             msg += (parseInt(style) + 1) + '. ' + 'bmw-md' + '\n';
