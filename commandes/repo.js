@@ -34,23 +34,23 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-      *TOSH MD IMPORTANT INFO* 
+      *ANYWAY MD IMPORTANT INFO* 
 ❒───────────────────❒
 *GITHUB LINK*
-> https://github.com/Tosh205/SUPER-MD
+> https://github.com/SIMON32883/MR-ANYWAY-MD
 
-*WHATSAPP GROUP*
-> https://chat.whatsapp.com/K5qhnWJMAZE4lZYnU1Bluk
+*WHATSAPP CHANNEL*
+> https://whatsapp.com/channel/0029VagWQ255q08VTCRQKP09
 ⁠
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│❒⁠⁠⁠⁠ *DEV1* : *Tosh tech*
-│❒⁠⁠⁠⁠ *DEV2* : *Ibrahim Adams*
+│❒⁠⁠⁠⁠ *DEV1* : *Mr anyway*
+│❒⁠⁠⁠⁠ *DEV2* : *Baraka Bega*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
 let menuMsg = `
-     *Tosh Tech*
+     *Anyway Tech*
 
 ❒────────────────────❒`;
 
