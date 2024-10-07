@@ -84,7 +84,7 @@ function _0x4925() {
         'ezone',
         'misc/sstab',
         'join',
-        '*TOSH-M',
+        '*ANYWAY-M',
         'ping',
         'To\x20check\x20p',
         'To\x20check\x20r',
