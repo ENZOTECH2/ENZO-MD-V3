@@ -43,7 +43,7 @@ const date = moment().format('DD/MM/YYYY');
  ${message}
  
  
- *ANYWAY-MD-WABOT*`
+ *POPKID-MD-WABOT*`
 
  if (lien.match(/\.(mp4|gif)$/i)) {
     try {
@@ -71,10 +71,10 @@ else {
 }
 
     } else {
-        if(!superUser) { repondre("there is no alive for this bot") ; return};
+        if(!superUser) { repondre("ATI ALIVE MZEE😂") ; return};
 
-      await   repondre("You have not yet saved your alive, to do this;  enter after alive your message and your image or video link in this context: .alive message;lien");
-         repondre("don't do fake thinks :)")
+      await   repondre("SI ATA WE UNAJUA POPKID MD HAIEZI LALA NO MATTER WHAT");
+         repondre("EBU TINGIZA KICHWA :)")
      }
  } else {
 
@@ -88,7 +88,7 @@ else {
     
 await addOrUpdateDataInAlive(texte , tlien)
 
-repondre(' Holla🥴, *ANYWAY-MD BOT* is alive just like you gee. ')
+repondre(' Holla🥴, *POPKID MD BOT* is alive just like you gee. ')
 
 }
     });
