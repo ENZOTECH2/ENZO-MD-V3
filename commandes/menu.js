@@ -34,24 +34,24 @@ const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
 ╭──────────────────❂
-┊❂╭───*ANYWAY-MD*────❂
-┊✺┊ *User* : ${s.OWNER_NAME}
-┊✺┊ *Mode* : ${mode}
+┊❂╭───*𝐏𝐎𝐏𝐊𝐈𝐃-𝐌𝐃*────❂
+┊✺┊ *𝐔𝐒𝐄𝐑* : ${s.OWNER_NAME}
+┊✺┊ *𝐌𝐎𝐃𝐄* : ${mode}
 ┊✺╰───────────────❂
-┊✺┊ *Time* : ${temps}  
-┊✺┊ *Ram* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
+┊✺┊ *𝐓𝐈𝐌𝐄* : ${temps}  
+┊✺┊ *𝐑𝐀𝐌* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 ┊❂╰───────────────❂
 ╰──────────────────❂ \n\n`;
  
     let menuMsg=`  
-  **ANYWAY MD COMMANDS*
+  *𝐏𝐎𝐏𝐊𝐈𝐃 𝐌𝐃 𝐂𝐎𝐌𝐌𝐀𝐍𝐃𝐒*
 `;
 
     for (const cat in coms) {
         menuMsg += `*╭────❂* *${cat}* *❂*`;
         for (const cmd of coms[cat]) {
             menuMsg += `  
-*┊❂* ${cmd}`;
+*┊⚽* ${cmd}`;
         }
         menuMsg += `
 *╰═════════════❂* \n`
@@ -61,7 +61,7 @@ const date = moment().format('DD/MM/YYYY');
 ◇            ◇
 *—————✺✺✺✺—————*
 
-  *ANYWAY-MD*                                         
+  *𝐏𝐎𝐏𝐊𝐈𝐃 𝐓𝐄𝐂𝐇*                                         
 *╰═════════════❂*
 `;
 
@@ -79,7 +79,7 @@ const date = moment().format('DD/MM/YYYY');
 // Vérification pour .jpeg ou .png
 else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
     try {
-        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "*anyway-tech*" }, { quoted: ms });
+        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "*popkid*" }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
