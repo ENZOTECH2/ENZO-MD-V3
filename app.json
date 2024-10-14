@@ -1,9 +1,9 @@
 {
-  "name":"ANYWAY-MD-V1",
-  "description":"Best whatsapp bot developed by mr anyway + Baraka Bega",
+  "name":"POPKID",
+  "description":"Best whatsapp bot developed by POPKID",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://i.imgur.com/TVHDPwX.jpeg",
-  "repository":"https://github.com/SIMON32883/MR-ANYWAY-MD",
+  "logo":"https://i.ibb.co/LpK2MK7/1728892250720.jpg",
+  "repository":"https://github.com/Popkiddevs/NORMAL-BOT-MD",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"MR-ANYWAY-MD",
+      "value":"ᴘᴏᴘᴋɪᴅ ᴍᴅ",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://i.imgur.com/TVHDPwX.jpeg",
+      "value":"https://i.ibb.co/LpK2MK7/1728892250720.jpg",
       "required":false
        
      },
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "Mr Anyway"
+    "value": "ℙ𝕆ℙ 𝕂𝕀𝔻"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "255678892560,255762190568"
+    "value": "254111385747"
   },
     "WARN_COUNT":
   {
