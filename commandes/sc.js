@@ -34,23 +34,23 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-      *ANYWAY MD IMPORTANT INFO* 
+      *𝗣𝗢𝗣𝗞𝗜𝗗 𝗠𝗗 𝗜𝗡𝗙𝗢* 
 ❒───────────────────❒
-*GITHUB LINK*
-> https://github.com/SIMON32883/MR-ANYWAY-MD
+*𝗚𝗜𝗧𝗛𝗨𝗕 𝗟𝗜𝗡𝗞*
+> https://github.com/Popkiddevs/NORMAL-BOT-MD
 
-*WHATSAPP GROUP*
-> https://whatsapp.com/channel/0029VagWQ255q08VTCRQKP09
+*𝗠𝗬 𝗖𝗛𝗔𝗡𝗡𝗘𝗟*
+> https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l
 ⁠
 ╭───────────────────❒
-│❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│❒⁠⁠⁠⁠ *DEV1* : *mr anyway*
-│❒⁠⁠⁠⁠ *DEV2* : *Baraka Bega*
+│⏰⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
+│⚽ *DEV1* : *𝗣𝗢𝗣𝗞𝗜𝗗⭕*
+│⏰ *DEV2* : *𝗣𝗢𝗣𝗞𝗜𝗗*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
 let menuMsg = `
-     *anyway Tech*
+     *𝗣𝗢𝗣𝗞𝗜𝗗 𝗧𝗘𝗖𝗛*
 
 ❒────────────────────❒`;
 
