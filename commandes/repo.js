@@ -39,8 +39,8 @@ const date = moment().format('DD/MM/YYYY');
 *𝐆𝐈𝐓𝐇𝐔𝐁*
 > https://github.com/ENZOTECH2/ENZO-MD-V3
 
-*𝐏𝐎𝐏𝐊𝐈𝐃𝐒 𝐂𝐇𝐀𝐍𝐍𝐄𝐋*
-> https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l
+*𝐄𝐍𝐙𝐎𝐒 𝐂𝐇𝐀𝐍𝐍𝐄𝐋*
+> https://whatsapp.com/channel/0029VajJTJp2f3ELCm8FN50D
 ⁠
 ╭───────────────────❒
 │😂 *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
