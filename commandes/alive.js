@@ -43,7 +43,7 @@ const date = moment().format('DD/MM/YYYY');
  ${message}
  
  
- *POPKID-MD-WABOT*`
+ *ENZO-MD-WABOT*`
 
  if (lien.match(/\.(mp4|gif)$/i)) {
     try {
@@ -71,9 +71,9 @@ else {
 }
 
     } else {
-        if(!superUser) { repondre("ATI ALIVE MZEE😂") ; return};
+        if(!superUser) { repondre("FIX MAMECHI ACHANA NA BOT🏍️☺️") ; return};
 
-      await   repondre("SI ATA WE UNAJUA POPKID MD HAIEZI LALA NO MATTER WHAT");
+      await   repondre("SA NILALE AJE NA.KUNA.AVIATOR✈️");
          repondre("EBU TINGIZA KICHWA :)")
      }
  } else {
