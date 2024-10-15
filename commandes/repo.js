@@ -34,23 +34,23 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-      *𝐏𝐎𝐏𝐊𝐈𝐃 𝐈𝐍𝐅𝐎* 
+      *𝐄𝐍𝐙𝐎 𝐈𝐍𝐅𝐎* 
 ❒───────────────────❒
-*GITHUB LINK*
-> https://github.com/Pookiddevs/NORMAL-BOT-MD
+*𝐆𝐈𝐓𝐇𝐔𝐁*
+> https://github.com/ENZOTECH2/ENZO-MD-V3
 
 *𝐏𝐎𝐏𝐊𝐈𝐃𝐒 𝐂𝐇𝐀𝐍𝐍𝐄𝐋*
 > https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l
 ⁠
 ╭───────────────────❒
 │😂 *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│❣️ *DEV1* : *ᴘᴏᴘᴋɪᴅ*
-│⚽ *DEV2* : *ᴘᴏᴘᴋɪᴅ*
+│❣️ *DEV1* : *𝐄𝐍𝐙𝐎*
+│⚽ *DEV2* : *𝐄𝐍𝐙𝐎 𝐓𝐄𝐂𝐇*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
 let menuMsg = `
-     *ᴘᴏᴘᴋɪᴅ ᴛᴇᴄʜ*
+     *𝐄𝐍𝐙𝐎 𝐌𝐃*
 
 ❒────────────────────❒`;
 
